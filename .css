@@ -1,0 +1,112 @@
+.linea {
+    	background: #1E88E5;
+}
+
+.cabeza {
+	width: 90%;
+    margin: 0 5%;
+}
+.imagen{
+    width: 60%; 
+    height: 90%;
+    text-align: center;
+}
+.adeuce{
+    width: 30%; 
+    height: 10%;
+}
+
+#titulo {
+    color: white;
+    display: inline-block;
+    font-family: arial;
+}
+
+.titulo2 {
+    color: #0080FF;
+    display: inline-block;
+    font-family: arial;
+}
+
+#subtitulo{
+    color:#ff5252;
+    text-align: center;
+    font-family: "Lobster", "Times", serif;
+    font-size: 2.5em;    
+}
+
+
+body {
+    font: 16px/20px Arial;
+}
+
+p{
+    height: 200%;
+    font-size: 80%;
+    text-align: center;
+}
+h6{
+    color:#81BEF7;
+    height: 200%;
+    font-size: 80%;
+}
+
+#cuadro{
+    border-color: red;
+
+}
+
+.justificacion {
+    text-align: justify;
+}
+
+#derecha{
+	width: 90%;
+    margin-float: 60%;
+}
+
+#izquierda{
+    width: 100%;
+    margin-left: 20%;
+}
+
+.footer{
+    background: #2E2E2E;
+}
+
+.final2{
+    width: 40%;
+    margin: 0 50%;
+}
+
+#final{
+    color:#A4A4A4;
+    display: inline-block;
+    font-family: sans-serif;
+}
+
+.letra{
+    text-align: center;
+}
+
+.link{
+    color:white;
+    font-size: 80%;
+    font-family: arial;
+
+}
+
+.link2{
+    color:#FF8000;
+    font-size: 80%;
+    font-family: arial;
+
+}
+
+.boton{
+    background-color:#ff5252; 
+    border: none;
+    border-radius: 2px;
+    color: #fff;
+    font-size: 14px;
+}
